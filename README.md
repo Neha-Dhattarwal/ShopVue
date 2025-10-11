@@ -1,6 +1,8 @@
 # ShopVue - Modern Mini E-Commerce Application
 
-A sleek and responsive single-page e-commerce web app built with Vue.js 3 and TypeScript, featuring a modern UI, smooth animations, and state management with Pinia. ShopVue lets users browse, filter, and purchase products with a delightful, responsive experience.
+A sleek and responsive single-page e-commerce web app built with Vue.js 3 and TypeScript, featuring a modern UI, smooth animations, and state management with Pinia. ShopVue lets users browse, filter, and purchase products with a delightful, responsive experience. 
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=vercel)](https://shop-vue-three.vercel.app/)
 
 ## 🖥️ Preview
 
